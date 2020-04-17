@@ -1,0 +1,26 @@
+----------Combo Automatico----------
+
+1. Descargar el Proyecto completo en esta carpeta llamado "ComboAuto"
+2. Implementar dentro de su proyecto la capaVista del proyecto "ComboAuto" en la pestaña
+   "General" 
+3. arrastrar el componente al formulario donde lo necesite. este es de dimensiones
+   ajustables.
+4. Este componente necesita 2 parametros para funcionar, la tabla y el campo que desea cargar
+   al combobox.
+
+5. En el formulario donde lo implementó, en el area donde inicializa componentes llame la
+   funcion del componente de la siguiente manera
+	
+	combo1.llenarse("nombre de su tabla","campo de la tabla");
+	
+	debe ir entre comillas ya que son variables de tipo string
+
+cualquier duda comunicarse con Edgar Casasola salu2 XD
+
+
+----------Obtener valor seleccionado------------
+
+1. llamar la funcion obtener de la siguiente manera.
+
+	combo1.obtener();
+   Esta funcion retorna un valor string del valor seleccionado en el comboBox.

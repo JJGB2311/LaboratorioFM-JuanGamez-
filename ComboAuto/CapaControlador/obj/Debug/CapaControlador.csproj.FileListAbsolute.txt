@@ -1,0 +1,11 @@
+C:\Users\edgar\source\repos\ComboAuto\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\edgar\source\repos\ComboAuto\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\edgar\source\repos\ComboAuto\CapaControlador\obj\Debug\CapaControlador.csprojAssemblyReference.cache
+C:\Users\edgar\source\repos\ComboAuto\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\edgar\source\repos\ComboAuto\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\edgar\source\repos\ComboAuto\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\juan_\Desktop\Universidad UMG Juan Jose Gamez Blanco\9No Semestre\Ingenieria de software\Preparcial2\ComboAuto\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\juan_\Desktop\Universidad UMG Juan Jose Gamez Blanco\9No Semestre\Ingenieria de software\Preparcial2\ComboAuto\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\juan_\Desktop\Universidad UMG Juan Jose Gamez Blanco\9No Semestre\Ingenieria de software\Preparcial2\ComboAuto\CapaControlador\obj\Debug\CapaControlador.csprojAssemblyReference.cache
+C:\Users\juan_\Desktop\Universidad UMG Juan Jose Gamez Blanco\9No Semestre\Ingenieria de software\Preparcial2\ComboAuto\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\juan_\Desktop\Universidad UMG Juan Jose Gamez Blanco\9No Semestre\Ingenieria de software\Preparcial2\ComboAuto\CapaControlador\obj\Debug\CapaControlador.pdb

@@ -1,0 +1,25 @@
+C:\Users\edgar\source\repos\ComboAuto\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\edgar\source\repos\ComboAuto\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\edgar\source\repos\ComboAuto\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+C:\Users\edgar\source\repos\ComboAuto\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\edgar\source\repos\ComboAuto\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\edgar\source\repos\ComboAuto\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\edgar\source\repos\ComboAuto\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\edgar\source\repos\ComboAuto\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\edgar\source\repos\ComboAuto\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\edgar\source\repos\ComboAuto\CapaVista\obj\Debug\CapaVista.Combo.resources
+C:\Users\edgar\source\repos\ComboAuto\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\edgar\source\repos\ComboAuto\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\edgar\source\repos\ComboAuto\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\juan_\Desktop\Universidad UMG Juan Jose Gamez Blanco\9No Semestre\Ingenieria de software\Preparcial2\ComboAuto\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\juan_\Desktop\Universidad UMG Juan Jose Gamez Blanco\9No Semestre\Ingenieria de software\Preparcial2\ComboAuto\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\juan_\Desktop\Universidad UMG Juan Jose Gamez Blanco\9No Semestre\Ingenieria de software\Preparcial2\ComboAuto\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\juan_\Desktop\Universidad UMG Juan Jose Gamez Blanco\9No Semestre\Ingenieria de software\Preparcial2\ComboAuto\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\juan_\Desktop\Universidad UMG Juan Jose Gamez Blanco\9No Semestre\Ingenieria de software\Preparcial2\ComboAuto\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\juan_\Desktop\Universidad UMG Juan Jose Gamez Blanco\9No Semestre\Ingenieria de software\Preparcial2\ComboAuto\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\juan_\Desktop\Universidad UMG Juan Jose Gamez Blanco\9No Semestre\Ingenieria de software\Preparcial2\ComboAuto\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+C:\Users\juan_\Desktop\Universidad UMG Juan Jose Gamez Blanco\9No Semestre\Ingenieria de software\Preparcial2\ComboAuto\CapaVista\obj\Debug\CapaVista.Combo.resources
+C:\Users\juan_\Desktop\Universidad UMG Juan Jose Gamez Blanco\9No Semestre\Ingenieria de software\Preparcial2\ComboAuto\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\juan_\Desktop\Universidad UMG Juan Jose Gamez Blanco\9No Semestre\Ingenieria de software\Preparcial2\ComboAuto\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\juan_\Desktop\Universidad UMG Juan Jose Gamez Blanco\9No Semestre\Ingenieria de software\Preparcial2\ComboAuto\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\juan_\Desktop\Universidad UMG Juan Jose Gamez Blanco\9No Semestre\Ingenieria de software\Preparcial2\ComboAuto\CapaVista\obj\Debug\CapaVista.pdb

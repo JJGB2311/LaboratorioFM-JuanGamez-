@@ -1,6 +1,6 @@
 ﻿namespace Preparcial_Juan
 {
-    partial class Categoria
+    partial class Cliente
     {
         /// <summary>
         /// Required designer variable.
@@ -38,10 +38,10 @@
             // navegador1
             // 
             this.navegador1.BackColor = System.Drawing.Color.White;
-            this.navegador1.Location = new System.Drawing.Point(0, -2);
+            this.navegador1.Location = new System.Drawing.Point(0, -4);
             this.navegador1.Name = "navegador1";
             this.navegador1.Size = new System.Drawing.Size(850, 650);
-            this.navegador1.TabIndex = 0;
+            this.navegador1.TabIndex = 6;
             // 
             // statusStrip
             // 
@@ -49,9 +49,9 @@
             this.statusStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.toolStripStatusLabel,
             this.LblUsuario});
-            this.statusStrip.Location = new System.Drawing.Point(0, 644);
+            this.statusStrip.Location = new System.Drawing.Point(0, 645);
             this.statusStrip.Name = "statusStrip";
-            this.statusStrip.Size = new System.Drawing.Size(853, 26);
+            this.statusStrip.Size = new System.Drawing.Size(851, 26);
             this.statusStrip.TabIndex = 8;
             this.statusStrip.Text = "StatusStrip";
             // 
@@ -71,18 +71,18 @@
             this.LblUsuario.Size = new System.Drawing.Size(18, 21);
             this.LblUsuario.Text = "..";
             // 
-            // Categoria
+            // Cliente
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(853, 670);
+            this.ClientSize = new System.Drawing.Size(851, 671);
             this.Controls.Add(this.statusStrip);
             this.Controls.Add(this.navegador1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
-            this.Name = "Categoria";
+            this.Name = "Cliente";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Categoria";
-            this.Load += new System.EventHandler(this.Categoria_Load);
+            this.Text = "Cliente";
+            this.Load += new System.EventHandler(this.Cliente_Load);
             this.statusStrip.ResumeLayout(false);
             this.statusStrip.PerformLayout();
             this.ResumeLayout(false);
@@ -91,7 +91,6 @@
         }
 
         #endregion
-
         private CapaDeDiseno.Navegador navegador1;
         private System.Windows.Forms.StatusStrip statusStrip;
         private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel;

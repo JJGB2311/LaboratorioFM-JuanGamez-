@@ -55,28 +55,6 @@ namespace Preparcial_Juan
             this.Close();
         }
 
-        private void CutToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-        }
-
-        private void CopyToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-        }
-
-        private void PasteToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-        }
-
-        private void ToolBarToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void StatusBarToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            
-        }
-
         private void CascadeToolStripMenuItem_Click(object sender, EventArgs e)
         {
             LayoutMdi(MdiLayout.Cascade);
@@ -104,17 +82,7 @@ namespace Preparcial_Juan
                 childForm.Close();
             }
         }
-
-        private void metodosToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void prToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-        }
-
+        
         private void MDIPreparcial_Load(object sender, EventArgs e)
         {
             frm_login login = new frm_login();
@@ -137,9 +105,28 @@ namespace Preparcial_Juan
             nuevo.Show();
         }
 
-        private void navegador1_Load(object sender, EventArgs e)
+    
+        private void coceptosToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            Material nuevo = new Material(usuarioact);
+            nuevo.MdiParent = this.MdiParent;
+            nuevo.Show();
+        }
 
+        private void bonoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Cliente nuevo = new Cliente(usuarioact);
+            nuevo.MdiParent = this.MdiParent;
+            nuevo.Show();
+        }
+
+       
+
+        private void clienteToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Empleados nuevo = new Empleados(usuarioact);
+            nuevo.MdiParent = this.MdiParent;
+            nuevo.Show();
         }
     }
 }
